@@ -36,7 +36,7 @@ class temp(object):
     ME = None
     CURRENT=int(os.environ.get("SKIP", 2))
     CANCEL = False
-    U_NAME = None
+    U_NAME = None salman
     B_NAME = None
     SETTINGS = {}
     FILES = {}
